@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-microwave-doppler",
+  "title": "microwave-doppler",
+  "keywords": "microwave-doppler, esp32, esp8266, arduino",
+  "description": "Plugin microwave-doppler for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-microwave-doppler/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-microwave-doppler/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
